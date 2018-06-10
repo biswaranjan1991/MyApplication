@@ -1,16 +1,16 @@
 import requests
 import time
 from beautifultable import BeautifulTable
-count = raw_input('Enter number of URLs to test:')
-print count
-timeO = raw_input('Enter threashold time in seconds:')
-print timeO
-urls = []
-for i in range(int(count)):
+#count = raw_input('Enter number of URLs to test:')
+#print count
+#timeO = raw_input('Enter threashold time in seconds:')
+#print timeO
+#urls = []
+for i in range(int(1)):
 #{
-        temp = raw_input('Enter URL:')
-        print temp
-        urls.append(temp)
+        #temp = raw_input('Enter URL:')
+        #print temp
+        urls.append("www.google.com")
 #}
 j = 0
 k = 0
