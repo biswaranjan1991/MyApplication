@@ -6,7 +6,7 @@ from beautifultable import BeautifulTable
 timeO = 1
 #raw_input('Enter threashold time in seconds:')
 #print timeO
-urls = ["www.google.com"]
+urls = ["http://www.google.com"]
 for i in range(int(2)):
 #{
         #temp = raw_input('Enter URL:')
