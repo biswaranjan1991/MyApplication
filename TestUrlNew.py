@@ -5,8 +5,8 @@ from beautifultable import BeautifulTable
 #print count
 #timeO = raw_input('Enter threashold time in seconds:')
 #print timeO
-#urls = []
-for i in range(int(1)):
+urls = ["www.google.com"]
+for i in range(int(2)):
 #{
         #temp = raw_input('Enter URL:')
         #print temp
