@@ -11,7 +11,7 @@ for i in range(int(2)):
 #{
         #temp = raw_input('Enter URL:')
         #print temp
-        urls.append("www.google.com")
+        urls.append("http://www.google.com")
 #}
 j = 0
 k = 0
