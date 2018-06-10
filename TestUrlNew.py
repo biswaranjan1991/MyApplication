@@ -3,7 +3,8 @@ import time
 from beautifultable import BeautifulTable
 #count = raw_input('Enter number of URLs to test:')
 #print count
-#timeO = raw_input('Enter threashold time in seconds:')
+timeO = 1
+#raw_input('Enter threashold time in seconds:')
 #print timeO
 urls = ["www.google.com"]
 for i in range(int(2)):
